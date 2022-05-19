@@ -12,6 +12,7 @@ System.out.println("Hello World");
 		int b=scn.nextInt();
 		System.out.println("Addition of  "+a+"and "+b+" is "+(a+b));
  
+		
 	}
 
 }
